@@ -15,13 +15,17 @@
 
 <h2 align="center"> Background & Overview </h2>
 
-After the historic treble in 2014/15, FC Barcelona faced a decade of highs and lows. On-field performance fluctuated, defensive stability declined, and financial instability forced major structural adjustments. This project investigates the club’s:
+After the historic treble in 2014/15, FC Barcelona faced a decade of highs and lows. On-field performance fluctuated, defensive stability declined, and financial instability forced major structural adjustments. As a long-time FC Barcelona supporter, I became fascinated by how the club’s on-field decline contrasted with its historical dominance. Instead of relying on media narratives, I wanted to use data to understand the real drivers behind performance changes.
+
+This project allowed me to combine passion with analytics and investigated the club's:
 
 - Competitive performance in domestic (La Liga) and international (UEFA Champions League) competitions
 - Finishing efficiency and Defensive weaknesses
 - Financial constraints, including transfer spending and salary cap limits, and their influence on team outcomes
 
-The analysis aims to uncover how financial and operational decisions correlate with on-field performance, offering insights relevant to business strategy and operational efficiency.
+Through this analysis, a broader business insight is uncovered: financial flexibility — more than total spending — has a stronger correlation with operational performance. This pattern mirrors challenges faced across many industries where resource allocation, efficiency, and strategic decision-making directly influence outcomes.
+
+Ultimately, this project demonstrates how data can reveal the connection between financial constraints and operational performance, whether in football or in any organizational context.
 
 **Research Question**:
 
