@@ -133,14 +133,15 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 - Efficiency is measured as the ratio of Goals-For (GF) to Expected Goals (xG) (`GF/xG`) (based on ball situations), where a ratio above 1 indicates overperformance and below 1 indicates underperformance.
 - **Open play:** Involving the play of live ball, usually contributes the majority of goals of any team. From **2014–2019**, Barcelona slightly overperformed in open play with an average of 1.05 GF/xG, indicating high finishing quality from elite forwards. After **2019/20**, there was a decrease of 11% to an average of 0.93 GF/xG, suggesting fewer clinical chances converted despite similar chance volume.
 - **Set pieces:** Corner kick and freekick are usually parts of set piece but analyzing them separately will provides better understanding and visualization of their performance trend. FC Barcelona showed strong execution in dead-ball scenarios between 2014 and 2019, especially in freekick with an average of 1.38 GF/xG. However, freekick efficiency declined sharply to 0.8 GF/xG - a drop of 42% - after Messi’s departure (2020), confirming strong dependency on a key player.
+- Overall, their efficiency declined post-2020 
 
 ### 🔵 Insights About Their International Performance
 
 ![UCL Stage Progression and Scoring Trends](./outputs/figures/ucl_stage_progression_and_stats.png)
 
 - Since the 2014/15 UCL title, Barcelona consistently struggled in knock-out rounds of UEFA Champions League, with **7 early exits in the last 10 seasons**.
-- Their performance fluctuated post-2018/19 and reached lowest level in 2021/22. They were demoted to the Europa League in 2021/22 and 2022/23 after failing the group stage at UCL, highlighting the club was **unable to compete at high-level competition intensity during its financial crisis.**
-- Although goals scored slightly improved the following seasons, defensive collapses in key matches (e.g., away legs) severely limited UCL progression.
+- Their performance fluctuated post-2018/19 and reached lowest level in 2021/22. They were demoted to the Europa League in 2021/22 and 2022/23 after failing the group stage at UCL. Looking back at the performance in La Liga, it's clear that positive results in domestic competition did not translate to success in European competitions. Despite achieving wins at home, Barcelona struggled against other top-tier European clubs, highlighting the club was **unable to compete at high-level competition intensity during its financial crisis.**
+- Although goals scored slightly improved the following seasons (2023/24), defensive collapses shown by increase in goals-conceded severely limited UCL progression.
 - The 2024/25 run again emphasizes a persisten weakness in defense with highest goals scored but also highest goals conceded in 10 years and again eliminated in Semi-Finals.
 - While their attacking performance significantly improves and remains relatively strong, defensive vulnerabilities at decisive moments continue to limit their success in international competitions.
 
