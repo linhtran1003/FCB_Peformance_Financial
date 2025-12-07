@@ -184,10 +184,10 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 FC Barcelona’s decline cannot be explained by performance metrics alone. Instead, the combined analysis shows:
 
 - Squad mismanagement (2017–2020) created structural weaknesses
-- Financial collapse (2020–2022) restricted squad-building capacity
-- Efficiency declines (finishing and defensive) negatively final outcomes
 - UCL performance drop mirrors domestic instability
-- Financial flexibility strongly reflects competitive performance
+- Efficiency declines (finishing and defensive) negatively final outcomes
+- Financial collapse (2020–2022) restricted squad-building capacity
+- Financial flexibility strongly reflects competitive performance in both domestic and international competitions
 - Overall, the **correlation between financial constraints and team performance** is evident: Financial restrictions have reduced squad's depth as the club is unable to sign high-quality players, increasing dependence on current key players, who shouldn’t be expected to perform in every match.
 - **Key Takeaways**:
 
