@@ -214,7 +214,7 @@ FC Barcelona’s decline cannot be explained by performance metrics alone. Inste
 - Integrating match-level or player-level datasets for advanced metrics (e.g., minutes played, passes, pressing, possession)  
 - Including amount earned from transfer departures to have better understanding about their earning & spending habit, and to determine whether this factor will emphasize their weakness in financial management.
 - Including players salary to better visualize the importance of Squad Cost Limit, how it works, and how it affects the club's trasnfer activities.
-- Comparative analysis with other top clubs over the same period.
+- Conducting a detailed analysis of revenue streams and diversification to better assess the club’s financial resilience and long-term sustainability.
 
 ## How to run
 
