@@ -117,8 +117,8 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 ![Defensive Weakness Visualizations](./outputs/figures/goals_vs_goals-against.png)
 
-- The line charts above illustrate goals distribution of FCB over the past 10 years. As shown by 2nd chart, the goal difference (goals scored - goals against) decreased gradually after 2016. This indicates that although the team maintained strong attacking numbers throughout the decade, but goals conceded increased steadily after 2016, reducing goal difference each season.
-- Goals conceded increased 81% between 2014/15 (21 GA) and 2021/22 (38 GA). The 2021/22 season shows the most severe imbalance: lowest goals scored (68) + unusually high goals conceded (38), producing the decade’s lowest goal difference.
+- This illustrates goals distribution of FC Barcelona over the past 10 years. As shown by 2nd chart, the goal difference (goals scored - goals against) decreased gradually after 2016. This indicates that although the team maintained strong attacking numbers throughout the decade, but goals conceded increased steadily after 2016, reducing goal difference each season.
+- Goals conceded increased 81% between 2014/15 (21 GA) and 2021/22 (38 GA). The 2021/22 season shows the most severe imbalance: lowest goals scored (68) + unusually high goals conceded (38), producing the decade’s lowest goal difference. 
 - Despite scoring fewer goals in 2022/23, this season marked a defensive turnaround as Barcelona improved their ranking due to a 47% reduction in goals conceded, coinciding with managerial and tactical changes - which reflected tactical restructuring and emphasized the importance of compact defense beside pure attacking output.
 - However, the subsequent 23/24 season raised questions about their consistency. Despite tactical improvement, the team’s defensive performance deteriorated, with goals conceded reaching their highest level in a decade (44). This suggests that besides manager - other factors such as player dependency or financial situation - may have influenced their on-pitch performance, especially in defense.
 
