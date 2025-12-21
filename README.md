@@ -202,7 +202,7 @@ FC Barcelona’s decline cannot be explained by performance metrics alone. Inste
   - Optimize recruitment efficiency for high-value player acquisitions
   - Use data-driven performance & scouting to guide tactical and operational decisions
 
-<h2 align="center"> Limitations & Potential Improvements in The Future </h2>
+<h2 align="center"> Limitations & Potential Improvements </h2>
 
 **Limitations:**
 
