@@ -105,7 +105,7 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 <h2 align="center"> Insight Deep Dive & Visualizations </h2>
 
-### 🟣 Insights About FC Barcelona's Performance in Domestic Competition over The Past Decade
+### 🟣 Domestic Performance Over The Past Decade
 
 ![La Liga Performance Trends](./outputs/figures/goals_vs_rank.png)
 
@@ -113,7 +113,7 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 - Win rate declined from 79% (2014/15) to 55% (2021/22), indicating loss of competitiveness and cosistency.
 - Despite fluctuations in goals scored, league rank did not always follow the same pattern, indicating that defensive stability and match consistency played a crucial role in match and league outcomes.
 
-### 🟡 Insights About Their Weakenesses in Defense Based on Scoring Trends
+### 🟡 Weakenesses in Defense Based on Scoring Trends
 
 ![Defensive Weakness Visualizations](./outputs/figures/goals_vs_goals-against.png)
 
@@ -122,7 +122,7 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 - Despite scoring fewer goals in 2022/23, this season marked a defensive turnaround as Barcelona improved their ranking due to a 47% reduction in goals conceded and win rate increased by 20% from 55.3% to 73.7%, coinciding with managerial and tactical changes - which reflected tactical restructuring and emphasized the importance of compact defense beside pure attacking output.
 - However, the subsequent 23/24 season raised questions about their consistency. Despite tactical improvement, the team’s defensive performance deteriorated, with goals conceded reaching their highest level in a decade (44). This suggests that besides manager - other factors such as player dependency or financial situation - may have influenced their on-pitch performance, especially in defense.
 
-### 🔴 Insights About Their Finishing Efficiency Based on Goals-For (GF) and Expected-goals (xG)
+### 🔴 Finishing Efficiency Based on Goals-For (GF) and Expected-goals (xG)
 
 ![Finishing Efficiency Visualization](./outputs/figures/finishing_eff.png)
 
@@ -131,7 +131,7 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 - **Set pieces:** Corner kick and freekick are usually parts of set piece but analyzing them separately will provides better understanding and visualization of their performance trend. FC Barcelona showed strong execution in dead-ball scenarios between 2014 and 2019, especially in freekick with an average of 1.38 GF/xG. However, freekick efficiency declined sharply to 0.8 GF/xG - a drop of 42% - after Messi’s departure (2020), confirming strong dependency on a key player.
 - Overall, their efficiency declined post-2020 
 
-### 🔵 Insights About Their International Performance
+### 🔵 International Performance (UEFA Competitions)
 
 ![UCL Stage Progression and Scoring Trends](./outputs/figures/ucl_stage_progression_and_stats.png)
 
@@ -145,7 +145,7 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
   Overall finishing inefficiency post-2020 especially when combined with defensive issues, may have cost Barcelona decisive points in both domestic and international competitions
 
-### 🟠 Insights About Amount Spending on Transfer Market
+### 🟠 Amount Spending on Transfer Market
 
 ![Transfer Spending](./outputs/figures/transfer_expenditures.png)
 
@@ -154,7 +154,7 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 - Spending patterns mirror performance cycles: overspending → inefficiency → collapse → rebuilding
 - **Overall**, this analysis demonstrates that Barcelona’s current financial struggles are not isolated incidents but rather the cumulative result of poor transfer market management during their most lavish years. The reduction in transfer expenditure after 2020 was less a matter of choice than a reflection of financial necessity, marking the beginning of a new, restrictive phase shaped by La Liga’s economic controls.
 
-### 🟢 Insights: Comparison of Squad Cost Limit between FC Barcelona and Real Madrid
+### 🟢 Comparison of Squad Cost Limit between FC Barcelona and Real Madrid
 
 ![Squad Cost Limit Comparison](./outputs/figures/squad_cost_limit.png)
 
@@ -166,7 +166,7 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 - Real Madrid, meanwhile, remained stable above €700M after experiencing slightly declined in 20/21 due to COVID-19, highlighting divergent financial trajectories between the two rivals.
 - **Overall**: Financial constraints correlate with performance: poorer seasons coincide with the lowest salary caps, restricted transfer activity, and reduced squad depth.
 
-### Correlation Between Financial Constraints and Team Performance
+### ⚪️ Correlation Between Financial Constraints and Team Performance
 
 ![Financial Constraints and Team Performance Correlation](./outputs/figures/financial_and_winrate_correlation.png)
 
