@@ -191,12 +191,13 @@ FC Barcelona’s decline cannot be explained by performance metrics alone. Inste
 
 <h2 align="center"> Recommendations </h2>
 
-- Improving Finishing Efficiency Across All Situations:
-  - Target combined GF/xG > 1.10 (current ≈ 0.81) through
-  - Implement finishing-focused training and tactical adjustments: expected improvement +0.15 increase in open-play GF/xG.
-- Enhance Denfensive Ability:
-  - Target GA reduction of 30–40% (from 44 → under 30).
-  - Prioritize recruitment for high-quality Center Back (CB) and Defensive Midfiedlder (DM) positions, which are crucial for defensive system.
+- Tactical improvements include:
+  - Improving Finishing Efficiency Across All Situations:
+    - Target combined GF/xG > 1.10 (current ≈ 0.81) through
+    - Implement finishing-focused training and tactical adjustments: expected improvement +0.15 increase in open-play GF/xG.
+  - Enhance Denfensive Ability:
+    - Target GA reduction of 30–40% (from 44 → under 30).
+    - Prioritize recruitment for high-quality Center Back (CB) and Defensive Midfiedlder (DM) positions, which are crucial for defensive system.
 - Rebuild Financial Stability & Manage Resources + Recruitment:
   - FC Barcelona's challenges extends beyond tactics - the club **must restore its long-term financial stability** to rebuild their position as one of top-tier clubs and regain their competitiveness against other rivals.
   - Optimize recruitment efficiency for high-value player acquisitions
