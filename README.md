@@ -17,11 +17,11 @@
 
 After the historic treble in 2014/15, FC Barcelona faced a decade of highs and lows. On-field performance fluctuated, defensive stability declined, and financial instability forced major structural adjustments. As a long-time FC Barcelona supporter, I became fascinated by how the club’s on-field decline contrasted with its historical dominance. Instead of relying on media narratives, I used data to understand the real drivers behind performance changes.
 
-This project combined domain interest with analytics by examining FC Barcelona's competitive performance in domestic (La Liga) and international (UEFA Champions League) competitions, focusing finishing efficiency, defensive weakness, and financial constraints including transfer spending and salary-cap limitations.
+This analysis combined domain interest and knowledge with data analytics to examine FC Barcelona's competitive performance in domestic (La Liga) and international (UEFA Champions League) competitions, focusing on finishing efficiency, defensive weakness, and financial constraints including transfer spending and salary-cap limitations.
 
 Beyond performance metrics, the analysis highlight a critical feedback loop between sporting results and financial stability. Declined on-field performance reduced matchday revenue, merchandise sales, and commercial value, further constraining financial flexibility. These limitations, in turn, restricted squad investment and depth, reinforcing a cycle of operational and financial insstability.
 
-Through this analysis, a broader business insight is uncovered: financial flexibility — more than total spending — has a stronger correlation with operational performance. This pattern mirrors challenges faced across many industries and any organizational context where resource allocation, efficiency, and strategic decision-making directly influence outcomes.
+Eventually, a broader business insight is uncovered: financial flexibility — more than total spending — has a stronger correlation with operational performance. This pattern mirrors challenges faced across many industries and any organizational context where resource allocation, efficiency, and strategic decision-making directly influence outcomes.
 
 **Research Question**:
 
