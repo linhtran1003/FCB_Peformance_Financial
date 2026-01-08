@@ -71,7 +71,9 @@ Eventually, a broader business insight is uncovered: financial flexibility - mor
 
 <h2 align="center"> Executive Summary </h2>
 
-![Overall Insights](./outputs/figures/overall_key_insights.png)
+<div align="center">
+  <img with="1000" height="500" src="./outputs/figures/overall_key_insights.png">
+</div>
 
 This project provides a decade-long evaluation of FC Barcelona’s performance, efficiency, and financial health. The visualization above highlights the main takeaways:
 
@@ -107,7 +109,9 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 ### 🟣 Domestic Performance Over The Past Decade
 
-![La Liga Performance Trends](./outputs/figures/goals_vs_rank.png)
+<div align="center">
+  <img with="1000" height="400" src="./outputs/figures/goals_vs_rank.png">
+</div>
 
 - Goals scored declined 41% from their peak of 116 (2016/17) to 68 (2021/22).
 - Win rate declined from 79% (2014/15) to 55% (2021/22), indicating loss of competitiveness and cosistency.
@@ -115,7 +119,9 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 ### 🟡 Weakenesses in Defense Based on Scoring Trends
 
-![Defensive Weakness Visualizations](./outputs/figures/goals_vs_goals-against.png)
+<div align="center">
+  <img with="1000" height="400" src="./outputs/figures/goals_vs_goals-against.png">
+</div>
 
 - This illustrates goals distribution of FC Barcelona over the past 10 years. As shown by 2nd chart, the goal difference (goals scored - goals against) decreased gradually after 2016. This indicates that although the team maintained strong attacking numbers throughout the decade, but goals conceded increased steadily after 2016, reducing goal difference each season.
 - Goals conceded increased 81% between 2014/15 (21 GA) and 2021/22 (38 GA). The 2021/22 season shows the most severe imbalance: lowest goals scored (68) + unusually high goals conceded (38), producing the decade’s lowest goal difference.
@@ -124,7 +130,9 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 ### 🔴 Finishing Efficiency Based on Goals-For (GF) and Expected-goals (xG)
 
-![Finishing Efficiency Visualization](./outputs/figures/finishing_eff.png)
+<div align="center">
+  <img with="1000" height="400" src="./outputs/figures/finishing_eff.png">
+</div>
 
 - Efficiency is measured as the ratio of Goals-For (GF) to Expected Goals (xG) (`GF/xG`) (based on ball situations), where a ratio above 1 indicates overperformance and below 1 indicates underperformance.
 - **Open play:** Involving the play of live ball, usually contributes the majority of goals of any team. From **2014–2019**, Barcelona slightly overperformed in open play with an average of 1.05 GF/xG, indicating high finishing quality from elite forwards. After **2019/20**, there was a decrease of 11% to an average of 0.93 GF/xG, suggesting fewer clinical chances converted despite similar chance volume. Notably, in the 2023/24 season, open-play efficiency dropped below both set-piece categories. This reversal underscores a structural weakness in Barcelona’s attacking phase, where the team became disproportionately reliant on set-piece goals to compensate for reduced effectiveness in open-play chance conversion.
@@ -133,7 +141,9 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 ### 🔵 International Performance (UEFA Competitions)
 
-![UCL Stage Progression and Scoring Trends](./outputs/figures/ucl_stage_progression_and_stats.png)
+<div align="center">
+  <img with="1000" height="400" src="./outputs/figures/ucl_stage_progression_and_stats.png">
+</div>
 
 - Since the 2014/15 UCL title, Barcelona consistently struggled in knock-out rounds of UEFA Champions League, with **7 early exits in the last 10 seasons**.
 - Their performance fluctuated post-2018/19 and reached lowest level in 2021/22. They were demoted to the Europa League in 2021/22 and 2022/23 after failing the group stage at UCL. Looking back at the performance in La Liga, it's clear that positive results in domestic competition did not translate to success in European competitions. Despite achieving wins at home, Barcelona struggled against other top-tier European clubs, highlighting the club was **unable to compete at high-level competition intensity during its financial crisis.**
@@ -147,7 +157,9 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 ### 🟠 Amount Spending on Transfer Market
 
-![Transfer Spending](./outputs/figures/transfer_expenditures.png)
+<div align="center">
+  <img with="1000" height="400" src="./outputs/figures/transfer_expenditures.png">
+</div>
 
 - From 2014 to 2020, the club maintained a stable financial status, reflected in consistently high levels of transfer spending and the freedom to pursue marquee signings. Over €1.1B spent from 2016–2020, representing 68% of total decade transfer expenditure, specifically in 2017 when they spent more than 3 times of their previous transfers with multiple high-cost contracts in an attempt to replace Neymar's impact after his departure but fail to match expectations. This also marks the beginning of financial instabilities and highlights inefficiencies in recruitment strategy, talent integration, and financial management.
 - Since 2020, their transfer sum decreased significantly after years of excessive spending, COVID-19 revenue losses, and structural mismanagement, forcing reliance on free transfers and academy players as the results of La Liga salary cap restrictions.
@@ -156,7 +168,9 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 ### 🟢 Comparison of Squad Cost Limit between FC Barcelona and Real Madrid
 
-![Squad Cost Limit Comparison](./outputs/figures/squad_cost_limit.png)
+<div align="center">
+  <img with="1000" height="400" src="./outputs/figures/squad_cost_limit.png">
+</div>
 
 - The analysis of FC Barcelona's financial situation can be interpreted further by its Squad Cost Limit in La Liga compared to their rival, Real Madrid. Squad Cost Limit (LCPD) is a measure set by La Liga which define the maximum amount a club may spend on registered players, coaching staff, and youth system expenses (including salaries, amortizations, and agent fees).
 - From 2019 to current season, FC Barcelona's Squad Cost Limit experienced major fluctuations that closely reflects their sporting performance trends:
@@ -168,7 +182,9 @@ This project provides a decade-long evaluation of FC Barcelona’s performance, 
 
 ### ⚪️ Correlation Between Financial Constraints and Team Performance
 
-![Financial Constraints and Team Performance Correlation](./outputs/figures/financial_and_winrate_correlation.png)
+<div align="center">
+  <img with="1000" height="400" src="./outputs/figures/financial_and_winrate_correlation.png">
+</div>
 
 - Squad Cost Limit and win rate show a strong positive correlation (r = 0.71), showing financial flexibility improves competitive performance.
 - While transfer spending & win rate shows weaker correlation (r = 0.04), reinforcing that the problem wasn’t money spent, but **money spent inefficiently**.
