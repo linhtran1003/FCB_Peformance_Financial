@@ -73,7 +73,7 @@ Eventually, a broader business insight is uncovered: financial flexibility - mor
 
 ![Overall Insights](./outputs/figures/overall_key_insights.png)
 
-This project provides a decade-long evaluation of FC Barcelona’s performance, efficiency, and financial health. The visualization above highlights the main takeaways:
+This analysis provides a decade-long evaluation of FC Barcelona’s performance, efficiency, and financial health. The visualization above highlights the main takeaways:
 
 1. **Performance Decline After 2016**:
 
