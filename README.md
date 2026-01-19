@@ -83,13 +83,9 @@
   <img with="1000" height="500" src="./outputs/figures/overall_key_insights.png">
 </div>
 
-<<<<<<< HEAD
-This analysis provides a decade-long evaluation of FC Barcelona’s performance, efficiency, and financial health. The visualization above highlights the main takeaways:
-=======
 <p>
   This project provides a decade-long evaluation of FC Barcelona’s performance, efficiency, and financial health. The visualization above highlights the main takeaways:
 </p>
->>>>>>> 7ac65b8ba7ea5ac2695386e0f0ae062d15b89084
 
 <ol>
   <li>
@@ -155,7 +151,7 @@ This analysis provides a decade-long evaluation of FC Barcelona’s performance,
 <h3> 🟡 Weakenesses in Defense Based on Scoring Trends </h3>
 
 <div align="center">
-  <img with="1000" height="400" src="./outputs/figures/goals_vs_goals-against.png">
+  <img with="1000" height="400" src="./outputs/figures/defensive_metrics.png">
 </div>
 
 <ul>
