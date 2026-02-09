@@ -24,7 +24,7 @@
 </p>
 
 <p>
-  Beyond performance metrics, the analysis highlights a critical feedback loop between sporting results and financial stability. Declined on-field performance reduced matchday revenue, merchandise sales, and commercial value, further constraining financial flexibility. These limitations, in turn, restricted squad investment and depth, reinforcing a cycle of operational and financial insstability.
+  Beyond performance metrics, the analysis highlights a critical feedback loop between sporting results and financial stability. Declined on-field performance reduced matchday revenue, merchandise sales, and commercial value, further constraining financial flexibility. These limitations, in turn, restricted squad investment and depth, reinforcing a cycle of operational and financial instability.
 </p>
 
 <p>
