@@ -148,7 +148,7 @@
 - Win rate declined from 79% (2014/15) to 55% (2021/22), indicating loss of competitiveness and cosistency.
 - Despite fluctuations in goals scored, league rank did not always follow the same pattern, indicating that defensive stability and match consistency played a crucial role in match and league outcomes.
 
-<h3> 🟡 Weakenesses in Defense Based on Scoring Trends </h3>
+<h3> 🟡 Weaknesses in Defense Based on Scoring Trends </h3>
 
 <div align="center">
   <img with="1000" height="400" src="./outputs/figures/defensive_metrics.png">
