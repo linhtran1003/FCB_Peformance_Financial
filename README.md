@@ -134,7 +134,7 @@
 
 `These findings mirror challenges in budget-constrained organizations, showing how financial decisions impact operational performance.`
 
-> This is an interactive dashboard created by `plotpy`. Run in Google Colab or a local environment with Plotly installed to explore more information on the plot.
+> This is an interactive dashboard created by `plotply`. Run in Google Colab or a local environment with Plotly installed to explore more information on the plot.
 
 <h2 align="center"> Insight Deep Dive & Visualizations </h2>
 
